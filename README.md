@@ -1,3 +1,8 @@
+## Experience
+- **Cashdoc Backend Intern** (Jun 2024 - Dec 2024)
+- **Google Developer Students Club** (Mar 2024 - Jun 2024)
+- **University Makeus Challenge 5th** (Mar 2023 - Jan 2024)
+
 <div align=center><h1>📚 Github stats </h1></div>
 
 <div align=center>
