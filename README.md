@@ -22,12 +22,3 @@
 
 </div>
 
-
-
-<div align=center><h1>🖥️ Most used languages </h1></div>
-
-<div align=center>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boms03&layout=compact&theme=radical)
-  
-</div>
