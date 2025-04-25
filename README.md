@@ -7,6 +7,7 @@
 <div align=center><h1> Certificates </h1></div>
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b068e19b-e27c-403b-8a99-3bc5e41b394e "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
 
 <div align=center><h1> Github stats </h1></div>
