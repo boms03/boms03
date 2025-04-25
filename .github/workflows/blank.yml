@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '30 18 * * *'
   workflow_dispatch:
+
+# 이 부분 추가
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
