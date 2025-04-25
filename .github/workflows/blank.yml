@@ -1,15 +1,14 @@
-name: Update badges
-
+name: Update Readme Actions
 on:
   schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with badges
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
+      - name: Badges - README
         uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: 87afed76
+        with:
+          CREDLY_USER: "username.87afed76"
