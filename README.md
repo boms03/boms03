@@ -1,7 +1,7 @@
 <div align=center><h1> Experience </h1></div>
 
 - **Cashdoc Backend Intern** (Jun 2024 - Dec 2024)
-- **Google Developer Students Club** (Mar 2024 - Jul 2024)
+- **Google Developer Students Club** (August 2023 - Jul 2024)
 - **University Makeus Challenge 5th** (Jun 2023 - Jan 2024)
 
 <div align=center><h1> Github stats </h1></div>
